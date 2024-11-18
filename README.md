@@ -72,12 +72,6 @@ This project leverages the following technologies:
 ## Conclusion
 The Personalized Book Recommendation System enhances your reading experience by providing tailored book suggestions based on your preferences. Built on AWS for scalability and reliability, it offers a seamless and user-friendly interface.
 
-## Images
-<img src="https://enzostvs-cached-generation.hf.space/generate/book recommendation analyse?format=square" alt="Book Recommendation Analyse">
-<img src="https://enzostvs-cached-generation.hf.space/generate/book recommendation suggest?format=square" alt="Book Recommendation Suggest">
-<img src="https://enzostvs-cached-generation.hf.space/generate/book recommendation happy user?format=square" alt="Book Recommendation Happy User">
-<img src="https://enzostvs-cached-generation.hf.space/generate/book recommendation satisfied user?format=portrait-9_16" alt="Book Recommendation Satisfied User">
-
 ## Contributing
 Contributions are welcome! Please follow these guidelines when contributing to the project.
 
