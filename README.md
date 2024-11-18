@@ -1,7 +1,5 @@
 # Personalized Book Recommendation System
 
-![Hero Image](https://enzostvs-cached-generation.hf.space/generate/books reading atmosphere?format=landscape-16_9)
-
 ## Overview
 The Personalized Book Recommendation System is a web-based application designed to provide users with personalized book recommendations based on their reading preferences. Utilizing natural language processing and machine learning algorithms, the system analyzes user data and suggests books that match their tastes.
 
